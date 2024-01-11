@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap");
+
+
+body {
+  background-image: url("../assets/bg.JPG");
+}
+.top-heading {
+  font-size: 15vh;
+  /* margin: 0 50vh ; */
+}
+.main-img img {
+  width: 20vw;
+  height: 50vh;
+}
+.two-img {
+  display: flex;
+  justify-content: center;
+}
+.top2-heading {
+  color: yellow;
+  font-family :
+  "Comic Sans", "Comic Sans MS", cursive;
+  font-size: 45px;
+}
+.header .main-img,
+.top2-heading,
+.header .three-img,
+.header .last-img {
+  display: flex;
+  justify-content: center;
+  margin: 2vh;
+}
+.header .three-img img {
+  margin: 0 3vw;
+}
+.header .last-img img {
+  margin: 4vh 0 0 0;
+}
+.frst-para {
+  margin: 0 10vw;
+  color: #fff54f;
+  color: rgb(255, 245, 79);
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0);
+  font-family :
+  "Comic Sans", "Comic Sans MS", cursive;
+  font-weight: bold;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(255, 245, 79);
+  text-align: left;
+  text-indent: 0px;
+  line-height: 40px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  word-spacing: 0px;
+  
+}
+.two-img img{
+  margin: 0 7vw;
+}
+.second-para {
+  margin: 0 12vw 0 0;
+  padding: 0 11.5vw;
+  line-height: 1.2em;
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0);
+  font-family :
+  "Comic Sans", "Comic Sans MS", cursive;                            
+  font-weight:900;
+  font-size: 26.5px;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(255, 255, 255);
+  text-align: left;
+  text-indent: 0px;
+  line-height: 30px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  word-spacing: 0px;
+  
+}
+.main-heading {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  color: rgb(255, 255, 255);
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0);
+  line-height: normal;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  word-spacing: 0px;
+
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(255, 255, 255);
+}
+ p.middle {
+  text-align: center;
+  color: rgb(255, 245, 79);
+  font-size: 42px;
+  font-weight: bold;
+    line-height: 1.2em;
+    font-family :
+    "Comic Sans", "Comic Sans MS", cursive;
+    margin: 1em 50px;
+}
+.banner,.donate{
+  text-align: center;
+}
+.donation{
+color: white;
+background-color: #000000;
+text-align: center;
+margin: 3vh 13vw;
+padding: 0 0 6vh 0;
+}
+#counter{
+  font-weight: bold;
+  font-size: 14vh;
+}
+#counter,.visitor,.donate-heading{
+  font-weight: bold;
+  font-size: 4vh;
+}
+.middle-last{
+  color: rgb(255, 225, 7);
+  text-align: center;
+  font-family :
+  "Comic Sans", "Comic Sans MS", cursive;
+  font-size: 42px;
+  font-weight: bold;
+    line-height: 1.2em;
+
+    margin: 1em 50px;
+}
